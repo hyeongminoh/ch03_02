@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=C:\Users\PC\djangoenv\myvenv"
+set "VIRTUAL_ENV=C:\Users\PC\Desktop\git\ch03_02\myvenv"
 
 if not defined PROMPT (
     set "PROMPT=$P$G"
